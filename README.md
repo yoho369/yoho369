@@ -5,7 +5,7 @@
 
 ---
 
-## Quantitative Strategies & Asset Allocation
+## Quantitative Strategies & Portfolio Management
 
 ### [Arbitraging the Price Space: Funding-Adjusted Cross-Exchange Perpetual Arbitrage](https://github.com/yoho369/crypto-perpetual-arbitrage)
 *Minute-level Perpetual Arbitrage Strategies | 2026*
