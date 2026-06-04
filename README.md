@@ -19,7 +19,7 @@
 
 ---
 
-## Web3 & Microstructure Research
+## Web3 & DeFi Mechanics
 
 ### A Risk Classification Framework for Decentralized Finance Protocols
 > *With Society of Actuaries (SOA) | 2022*
@@ -28,7 +28,7 @@
 
 ### Estimating Fee Elasticities of Demand at Major Blockchain Platforms
 > *Consulting Project with Exponential Science | 2025*
-* Developed time-series forecasting models (ARIMAX and VAR) leveraging on-chain data to estimate Layer-1 network demand and optimize staking and pricing strategies.
+* Developed time-series forecasting models (ARIMAX and VAR) leveraging on-chain data to estimate Layer-1 network demand and optimize staking and pricing strategies for a partnering L1 DLT platform.
 
 ### Single-Sided AMM Design & Architecture
 > *Protocol Engineering & Vulnerability Modeling | 2022*
