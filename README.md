@@ -14,6 +14,7 @@
 * **Repository:** [`crypto-perpetual-arbitrage`](https://github.com/yoho369/crypto-perpetual-arbitrage) 
 
 ### Regime-Integrated Cross-Asset Allocation Using Alternative Macro Data (2026)
+*Systematic Portfolio Construction & Machine Learning*
 * An experiment on improving classical asset allocation methods with regime predictions using some alternative macro indicators.
 * **Repository:** [`regime-integrated-asset-allocation`](https://github.com/yoho369/regime-integrated-asset-allocation)
 
@@ -23,7 +24,7 @@
 
 ### A Risk Classification Framework for Decentralized Finance Protocols (2022)
 * Co-authored a systematic framework identifying emerging risks in automated market makers (AMMs) and lending protocols for institutional insurers.
-* Published via the Society of Actuaries (SOA) with subsequent citations from researchers at UCL, ETH Zurich, UIUC and other leading institutions.
+* [Published](https://www.soa.org/resources/research-reports/2022/decentralized-finance-protocols/) via the Society of Actuaries (SOA) with subsequent citations from researchers at UCL, ETH Zurich, UIUC and other leading institutions.
 
 ### Single-Sided AMM Design (2022)
 * Modeled arbitrage vulnerabilities, optimal fee boundaries, liquidity mining designs and interest mechanisms for a single-sided "open liquidity" stableswap AMM
