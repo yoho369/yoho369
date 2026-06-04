@@ -1,6 +1,7 @@
 # JOE TW HO
 **Quant, DeFi and Web3 Research** 
-📧 [connect.ust.hk](mailto:joeho@connect.ust.hk) | 🎓 [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=pZJnX2AAAAAJ)
+
+[email](mailto:twhoae@connect.ust.hk) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=pZJnX2AAAAAJ)
 
 ---
 
