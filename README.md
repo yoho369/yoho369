@@ -34,8 +34,8 @@
 ### Single-Sided AMM Design & Architecture
 *Protocol Engineering & Vulnerability Modeling | 2022*
 * Modeled arbitrage vulnerabilities and architected optimal fee boundaries, liquidity mining designs, and interest mechanisms for a single-sided "open liquidity" stableswap AMM that hit ecosystem-top TVL and trading volumes at peaks.
-* Engineered a dual-pool emission mechanism utilizing a Cobb-Douglas weight function to balance raw stablecoin deposits with time-locked governance tokens, effectively neutralizing mercenary capital.
-* Designed an Asset Liability Management (ALM) interest rate model with strict mathematical bounds on coverage ratio adjustments, preventing large-capital actors from manipulating token emissions.
+* Engineered an alternative Vote-Escrow model from Curve to incentivize stablecoin deposits with time-locked governance tokens.
+* Designed an interest rate model on coverage ratio adjustments, preventing mercenary capital from manipulating token emissions.
 
 ---
 
