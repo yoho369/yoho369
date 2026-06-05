@@ -16,20 +16,18 @@
 ### [Regime-Integrated Cross-Asset Allocation Using Alternative Macro Data](https://github.com/yoho369/regime-integrated-asset-allocation)
 *Systematic Cross-Asset Portfolio Construction & Machine Learning | 2026*
 * An experiment on improving classical asset allocation methods with regime predictions using alternative macro indicators.
-* Utilized mathematical optimization tracking routines to dynamically scale capital allocations.
-
 ---
 
 ## Web3 & DeFi Mechanics
 
 ### A Risk Classification Framework for Decentralized Finance Protocols
 *With Society of Actuaries (SOA) | 2022*
-* Co-authored a systematic framework identifying emerging risks in automated market makers (AMMs) and lending protocols for institutional insurers.
-* [Read Publication](https://www.soa.org/resources/research-reports/2022/decentralized-finance-protocols/) (Subsequent citations from researchers at UCL, ETH Zurich, UIUC, and other leading institutions).
+* Co-authored a framework identifying emerging risks in DeFi protocols for institutional insurers.
+* [Read Publication](https://www.soa.org/resources/research-reports/2022/decentralized-finance-protocols/).
 
 ### Estimating Fee Elasticities of Demand at Major Blockchain Platforms
 *Consulting Project with Exponential Science | 2025*
-* Developed time-series forecasting models (ARIMAX and VAR) leveraging on-chain data to estimate Layer-1 network demand and optimize staking and pricing strategies for a partnering L1 DLT platform.
+* Developed time-series forecasting models (ARIMAX and VAR) leveraging on-chain data to estimate Layer-1's usage demand change with respect to gas fee changes and optimize staking and pricing strategies for a partnering L1 DLT platform.
 
 ### Single-Sided AMM Design & Architecture
 *Protocol Engineering & Vulnerability Modeling | 2022*
