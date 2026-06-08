@@ -20,14 +20,17 @@
 
 ## Web3 & DeFi Mechanics
 
-### A Risk Classification Framework for Decentralized Finance Protocols
+### [A Risk Classification Framework for Decentralized Finance Protocols](https://www.soa.org/resources/research-reports/2022/decentralized-finance-protocols/)
 *with Society of Actuaries (SOA) | 2022*
 * Co-authored a framework identifying emerging risks in DeFi protocols for institutional insurers.
-* [Read Publication](https://www.soa.org/resources/research-reports/2022/decentralized-finance-protocols/).
 
 ### Estimating Fee Elasticities of Demand at Major Blockchain Platforms
 *time-series econometrics on blockchain network usage| 2025*
 * Developed time-series forecasting models (ARIMAX and VAR) leveraging on-chain data to estimate Layer-1's usage demand change with respect to gas fee changes and optimize staking and pricing strategies for a partnering L1 DLT platform.
+
+### [A Conceptual Discussion on Recursive Vault Optimization & Vault Risk Analysis](https://github.com/yoho369/vault-optimization/blob/main/vault_optimization.pdf)
+*Leveraged Vault Optimization and Risk Analysis| 2025*
+* A conceptual framework analyzing recursive leveraged staking strategies (e.g., looping ETH/stETH across DeFi lending venues like Aave and Morpho). 
 
 ### Single-Sided AMM Design & Architecture
 *AMM design & vulnerability modeling | 2022*
